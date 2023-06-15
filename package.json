@@ -1,0 +1,18 @@
+{
+  "name": "serbian-apr-status",
+  "version": "1.1.0",
+  "license": "MIT",
+  "dependencies": {
+    "date-fns": "^2.29.1",
+    "fastify": "^3.27.1",
+    "node-cron": "^3.0.1",
+    "node-telegram-bot-api": "^0.56.0",
+    "puppeteer": "^13.1.3",
+    "puppeteer-core": "^13.1.3",
+    "telebot": "^1.4.1",
+    "telegraf": "^4.6.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
